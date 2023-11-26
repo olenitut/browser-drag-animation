@@ -161,11 +161,3 @@ body {
   transform: rotateY(92deg);
   animation-delay: 0s;
 }
-
-.line {
-  position: absolute;
-  height: 2px;
-  background-color: #802aea;
-  transform: translateY(80px);
-  transition: all 0.2s;
-}
